@@ -1,0 +1,14 @@
+{
+  "$id": "c_locationPageMetaTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "This is the title you give your web page so that when a person sees a link to your page from the search engine it has a title to go with it. It is also visible at the top of the page tab in many web browsers and is saved as the title of a bookmark if a user saves it.",
+  "displayName": "Location Page Meta Title",
+  "group": "GROUP3",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

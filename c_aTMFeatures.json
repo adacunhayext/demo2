@@ -1,0 +1,32 @@
+{
+  "$id": "c_aTMFeatures",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "These feed into the \"ATM Features\" section of the US Location page.",
+  "displayName": "ATM Features",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Accepts deposits",
+              "textValue": "ACCEPTS_DEPOSITS"
+            },
+            {
+              "displayName": "Voice enabled",
+              "textValue": "VOICE_ENABLED"
+            },
+            {
+              "displayName": "Currency denominations",
+              "textValue": "CURRENCY_DENOMINATIONS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

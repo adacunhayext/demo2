@@ -1,0 +1,14 @@
+{
+  "$id": "c_locatorHoursNote",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "This field only powers text shown on the fly out menu of the TD US Locator and appears directly above the hours.",
+  "displayName": "Locator Hours Note",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

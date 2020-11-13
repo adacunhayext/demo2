@@ -1,0 +1,11 @@
+{
+  "$id": "c_appointments",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Appointments",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

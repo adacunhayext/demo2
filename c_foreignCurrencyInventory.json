@@ -1,0 +1,32 @@
+{
+  "$id": "c_foreignCurrencyInventory",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "These feed into the \"Foreign Currency Inventory\" section of the US Location page.",
+  "displayName": "Foreign Currency Inventory",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Canadian Dollar",
+              "textValue": "CANADIAN_DOLLAR"
+            },
+            {
+              "displayName": "United Kingdom Pound",
+              "textValue": "UNITED_KINGDOM_POUND"
+            },
+            {
+              "displayName": "European Union Euro",
+              "textValue": "EUROPEAN_UNION_EURO"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

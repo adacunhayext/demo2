@@ -1,0 +1,30 @@
+{
+  "$id": "c_leedLevel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Leed Level",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Certified",
+          "textValue": "CERTIFIED"
+        },
+        {
+          "displayName": "Gold",
+          "textValue": "GOLD"
+        },
+        {
+          "displayName": "Platinum",
+          "textValue": "PLATINUM"
+        },
+        {
+          "displayName": "Silver",
+          "textValue": "SILVER"
+        }
+      ]
+    }
+  },
+  "typeId": "yext/option"
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_metroMarket",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Metro Market           ",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,123 @@
+{
+  "$id": "c_tdUsLocatorFilter",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "description": "",
+  "displayName": "TD US Locator Filter",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "stores",
+          "displayName": "Stores",
+          "isRequired": false,
+          "typeId": "yext/list",
+          "type": {
+            "listType": {
+              "typeId": "yext/option",
+              "type": {
+                "optionType": {
+                  "option": [
+                    {
+                      "displayName": "Drive-Up Service",
+                      "textValue": "Drive-up service"
+                    },
+                    {
+                      "displayName": "Notary",
+                      "textValue": "Notary"
+                    },
+                    {
+                      "displayName": "Night Deposit",
+                      "textValue": "Night Deposit"
+                    },
+                    {
+                      "displayName": "Foreign Currency",
+                      "textValue": "Foreign currency"
+                    },
+                    {
+                      "displayName": "Safe Deposit Box",
+                      "textValue": "Safe Deposit Box"
+                    },
+                    {
+                      "displayName": "Wi-Fi",
+                      "textValue": "Wi-Fi"
+                    },
+                    {
+                      "displayName": "Open Sunday",
+                      "textValue": "Curbside Pickup"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "atms",
+          "displayName": "ATMs",
+          "isRequired": false,
+          "typeId": "yext/list",
+          "type": {
+            "listType": {
+              "typeId": "yext/option",
+              "type": {
+                "optionType": {
+                  "option": [
+                    {
+                      "displayName": "Walk-Up Service",
+                      "textValue": "Walk-up service"
+                    },
+                    {
+                      "displayName": "Drive-Up Service",
+                      "textValue": "Drive-up service"
+                    },
+                    {
+                      "displayName": "Accepts Deposit",
+                      "textValue": "Accepts deposits"
+                    },
+                    {
+                      "displayName": "ATM Available 24/7",
+                      "textValue": "ATM Available 24/7"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "specialists",
+          "displayName": "Specialists",
+          "isRequired": false,
+          "typeId": "yext/list",
+          "type": {
+            "listType": {
+              "typeId": "yext/option",
+              "type": {
+                "optionType": {
+                  "option": [
+                    {
+                      "displayName": "Mortgage Loan Officer",
+                      "textValue": "Mortgage Loan Officer"
+                    },
+                    {
+                      "displayName": "Wealth Specialist",
+                      "textValue": "Wealth Specialist"
+                    },
+                    {
+                      "displayName": "Small Business",
+                      "textValue": "Small Business"
+                    },
+                    {
+                      "displayName": "Foreign Exchange Center",
+                      "textValue": "Foreign Exchange Center"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

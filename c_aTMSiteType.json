@@ -1,0 +1,22 @@
+{
+  "$id": "c_aTMSiteType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "ATM Site Type",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Store",
+          "textValue": "STORE"
+        },
+        {
+          "displayName": "Remote",
+          "textValue": "REMOTE"
+        }
+      ]
+    }
+  },
+  "typeId": "yext/option"
+}

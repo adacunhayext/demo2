@@ -1,0 +1,83 @@
+{
+  "$id": "c_eventsCft",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Events CFT",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "eventImage",
+          "displayName": "Event Image",
+          "isRequired": false,
+          "typeId": "yext/image",
+          "type": {
+            "imageType": {
+              "isSimpleImage": true,
+              "minSize": {
+                "width": 0,
+                "height": 0
+              },
+              "unconstrainedAspectRatioAllowed": true,
+              "noAllowedAspectRatios": true
+            }
+          }
+        },
+        {
+          "name": "imageAltTag",
+          "displayName": "Image Alt Tag",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "eventSubheading",
+          "displayName": "Event Subheading",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "eventDescription",
+          "displayName": "Event Description",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "MULTILINE"
+            }
+          }
+        },
+        {
+          "name": "buttonText",
+          "displayName": "Button Text",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "buttonUrl",
+          "displayName": "Button URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

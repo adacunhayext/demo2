@@ -1,0 +1,12 @@
+{
+  "$id": "c_isRemoteATM",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "If \u003dYes, this entity is treated as a Remote ATM and will not show hours on Locator map tile ",
+  "displayName": "Is Remote ATM",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

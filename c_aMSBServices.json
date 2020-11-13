@@ -1,0 +1,13 @@
+{
+  "$id": "c_aMSBServices",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "AMSB Services",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "listType": {
+      "typeId": "c_productsServices"
+    }
+  },
+  "typeId": "yext/list"
+}

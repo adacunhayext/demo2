@@ -1,0 +1,44 @@
+{
+  "$id": "c_aboutCft",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "About CFT",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "about-Description",
+          "displayName": "About - Description",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "MULTILINE"
+            }
+          }
+        },
+        {
+          "name": "buttonText",
+          "displayName": "Button Text",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "buttonUrl",
+          "displayName": "Button URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

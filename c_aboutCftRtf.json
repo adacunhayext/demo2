@@ -1,0 +1,51 @@
+{
+  "$id": "c_aboutCftRtf",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "About CFT - RTF",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "about-Description",
+          "displayName": "About - Description",
+          "isRequired": false,
+          "typeId": "yext/richText",
+          "type": {
+            "richTextType": {
+              "supportedFormat": [
+                "BOLD",
+                "BULLETED_LIST",
+                "HYPERLINK",
+                "ITALICS",
+                "NUMBERED_LIST",
+                "UNDERLINE"
+              ]
+            }
+          }
+        },
+        {
+          "name": "buttonText",
+          "displayName": "Button Text",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "buttonUrl",
+          "displayName": "Button URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

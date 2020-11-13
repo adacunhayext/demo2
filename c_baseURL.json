@@ -1,0 +1,14 @@
+{
+  "$id": "c_baseURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Base website URL",
+  "displayName": "Base URL",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_languagesLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Languages Label",
+  "group": "GROUP3",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

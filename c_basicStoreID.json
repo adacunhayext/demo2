@@ -1,0 +1,15 @@
+{
+  "$id": "c_basicStoreID",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "3 or 4 digit code that populates the broader store ID code, e.g., \"CABRANCH[Basic Store ID]\"",
+  "displayName": "Basic Store ID",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,54 @@
+{
+  "$id": "ce_people",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "People",
+  "enabled": false,
+  "field": [
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_aMSBLanguages",
+      "required": false
+    },
+    {
+      "id": "c_articlesSection",
+      "required": false
+    },
+    {
+      "id": "c_articlesSectionTitle",
+      "required": false
+    },
+    {
+      "id": "c_profilePhotoFormat",
+      "required": false
+    },
+    {
+      "id": "c_tDStoreID",
+      "required": false
+    },
+    {
+      "id": "c_toolsSection",
+      "required": false
+    },
+    {
+      "id": "c_toolsSectionTitle",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": ""
+}

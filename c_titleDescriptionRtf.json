@@ -1,0 +1,40 @@
+{
+  "$id": "c_titleDescriptionRtf",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Title / Description RTF",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "title",
+          "displayName": "Title",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "description",
+          "displayName": "Description",
+          "isRequired": false,
+          "typeId": "yext/richText",
+          "type": {
+            "richTextType": {
+              "supportedFormat": [
+                "BOLD",
+                "BULLETED_LIST",
+                "HYPERLINK",
+                "ITALICS",
+                "NUMBERED_LIST",
+                "UNDERLINE"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

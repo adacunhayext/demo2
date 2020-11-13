@@ -1,0 +1,79 @@
+{
+  "$id": "c_productsCftRtf",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Products CFT - RTF",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "productImage",
+          "displayName": "Product Image",
+          "isRequired": false,
+          "typeId": "yext/image",
+          "type": {
+            "imageType": {
+              "isSimpleImage": true,
+              "minSize": {
+                "width": 0,
+                "height": 0
+              },
+              "unconstrainedAspectRatioAllowed": true,
+              "noAllowedAspectRatios": true
+            }
+          }
+        },
+        {
+          "name": "productImageAltTag",
+          "displayName": "Product Image Sub-heading",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "productDescription",
+          "displayName": "Product Description",
+          "isRequired": false,
+          "typeId": "yext/richText",
+          "type": {
+            "richTextType": {
+              "supportedFormat": [
+                "BOLD",
+                "BULLETED_LIST",
+                "HYPERLINK",
+                "ITALICS",
+                "NUMBERED_LIST",
+                "UNDERLINE"
+              ]
+            }
+          }
+        },
+        {
+          "name": "buttonText",
+          "displayName": "Button Text",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "buttonUrl",
+          "displayName": "Button URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

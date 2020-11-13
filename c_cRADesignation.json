@@ -1,0 +1,30 @@
+{
+  "$id": "c_cRADesignation",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "CRA Designation",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Low",
+          "textValue": "LOW"
+        },
+        {
+          "displayName": "Middle",
+          "textValue": "MIDDLE"
+        },
+        {
+          "displayName": "Moderate",
+          "textValue": "MODERATE"
+        },
+        {
+          "displayName": "Upper",
+          "textValue": "UPPER"
+        }
+      ]
+    }
+  },
+  "typeId": "yext/option"
+}

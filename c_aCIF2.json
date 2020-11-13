@@ -1,0 +1,13 @@
+{
+  "$id": "c_aCIF2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "ACIF2",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

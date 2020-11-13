@@ -1,0 +1,11 @@
+{
+  "$id": "c_nMLSID",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "NMLS ID",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "yext/decimal"
+}

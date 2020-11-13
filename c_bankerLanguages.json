@@ -1,0 +1,47 @@
+{
+  "$id": "c_bankerLanguages",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Banker Languages",
+  "group": "GROUP3",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "English",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_FR",
+                  "value": "Anglais"
+                },
+                {
+                  "localeCode": "fr",
+                  "value": "Anglais"
+                }
+              ],
+              "textValue": "ENGLISH"
+            },
+            {
+              "displayName": "French",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "en_FR",
+                  "value": "Français"
+                },
+                {
+                  "localeCode": "fr",
+                  "value": "Français"
+                }
+              ],
+              "textValue": "FRENCH"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

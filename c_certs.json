@@ -1,0 +1,18 @@
+{
+  "$id": "c_certs",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Certs",
+  "group": "GROUP3",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

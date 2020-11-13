@@ -1,0 +1,14 @@
+{
+  "$id": "c_manager",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Manager",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

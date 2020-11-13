@@ -1,0 +1,64 @@
+{
+  "$id": "c_features",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Features",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "maxLength": 50,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Wheelchair",
+              "textValue": "WHEELCHAIR"
+            },
+            {
+              "displayName": "Drive Up",
+              "textValue": "DRIVE_UP"
+            },
+            {
+              "displayName": "Walk Up",
+              "textValue": "WALK_UP"
+            },
+            {
+              "displayName": "Accept Deposit",
+              "textValue": "ACCEPT_DEPOSIT"
+            },
+            {
+              "displayName": "Voice Enabled",
+              "textValue": "VOICE_ENABLED"
+            },
+            {
+              "displayName": "Envelope Free",
+              "textValue": "ENVELOPE_FREE"
+            },
+            {
+              "displayName": "Walk Up Accept Deposit",
+              "textValue": "WALK_UP_ACCEPT_DEPOSIT"
+            },
+            {
+              "displayName": "Walk Up Voice Enabled",
+              "textValue": "WALK_UP_VOICE_ENABLED"
+            },
+            {
+              "displayName": "Walk Up Envelope Free",
+              "textValue": "WALK_UP_ENVELOPE_FREE"
+            },
+            {
+              "displayName": "Penny Arcade",
+              "textValue": "PENNY_ARCADE"
+            },
+            {
+              "displayName": "Night Depository",
+              "textValue": "NIGHT_DEPOSITORY"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

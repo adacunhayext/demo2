@@ -1,0 +1,13 @@
+{
+  "$id": "c_comingSoonText",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Coming Soon Text",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "c_isRemote",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "If yes, the AMSB is remote. ",
+  "displayName": "Is Remote",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "c_titledescription",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Title/Description",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "title",
+          "displayName": "Title",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "description",
+          "displayName": "Description",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "MULTILINE"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

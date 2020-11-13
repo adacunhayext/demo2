@@ -1,0 +1,14 @@
+{
+  "$id": "c_gMBDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "GMB Description",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 4000
+    }
+  },
+  "typeId": "yext/string"
+}

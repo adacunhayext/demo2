@@ -1,0 +1,11 @@
+{
+  "$id": "c_acceptDeposit",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Accept Deposit",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

@@ -1,0 +1,359 @@
+{
+  "$id": "c_aMSBLanguages",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "AMSB Languages",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Amharic",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Amharique"
+                }
+              ],
+              "textValue": "AMHARIC"
+            },
+            {
+              "displayName": "Arabic",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Arabe"
+                }
+              ],
+              "textValue": "ARABIC"
+            },
+            {
+              "displayName": "Armenian",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Arménien"
+                }
+              ],
+              "textValue": "ARMENIAN"
+            },
+            {
+              "displayName": "Bengali",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Bengali"
+                }
+              ],
+              "textValue": "BENGALI"
+            },
+            {
+              "displayName": "Bulgarian",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Bulgare"
+                }
+              ],
+              "textValue": "BULGARIAN"
+            },
+            {
+              "displayName": "Cantonese",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Cantonais"
+                }
+              ],
+              "textValue": "CANTONESE"
+            },
+            {
+              "displayName": "English",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Anglais"
+                }
+              ],
+              "textValue": "ENGLISH"
+            },
+            {
+              "displayName": "Farsi",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Persan (Farsi)"
+                }
+              ],
+              "textValue": "FARSI"
+            },
+            {
+              "displayName": "French",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Francais"
+                }
+              ],
+              "textValue": "FRENCH"
+            },
+            {
+              "displayName": "Georgian",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Géorgien"
+                }
+              ],
+              "textValue": "GEORGIAN"
+            },
+            {
+              "displayName": "Greek",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Grec"
+                }
+              ],
+              "textValue": "GREEK"
+            },
+            {
+              "displayName": "Gujarati",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Gujarati"
+                }
+              ],
+              "textValue": "GUJARATI"
+            },
+            {
+              "displayName": "Hebrew",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Hébreu"
+                }
+              ],
+              "textValue": "HEBREW"
+            },
+            {
+              "displayName": "Hindi",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Hindi"
+                }
+              ],
+              "textValue": "HINDI"
+            },
+            {
+              "displayName": "Italian",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Italien"
+                }
+              ],
+              "textValue": "ITALIAN"
+            },
+            {
+              "displayName": "Katchi",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Katchi"
+                }
+              ],
+              "textValue": "KATCHI"
+            },
+            {
+              "displayName": "Kinyarwanda",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Kinyarwanda"
+                }
+              ],
+              "textValue": "KINYARWANDA"
+            },
+            {
+              "displayName": "Kirundi",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Kirundi"
+                }
+              ],
+              "textValue": "KIRUNDI"
+            },
+            {
+              "displayName": "Korean",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Coréen"
+                }
+              ],
+              "textValue": "KOREAN"
+            },
+            {
+              "displayName": "Malayalam",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Malayalam"
+                }
+              ],
+              "textValue": "MALAYALAM"
+            },
+            {
+              "displayName": "Mandarin",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Mandarin"
+                }
+              ],
+              "textValue": "MANDARIN"
+            },
+            {
+              "displayName": "Nepali",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Népalais"
+                }
+              ],
+              "textValue": "NEPALI"
+            },
+            {
+              "displayName": "Polish",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Polonais"
+                }
+              ],
+              "textValue": "POLISH"
+            },
+            {
+              "displayName": "Portuguese",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Portugais"
+                }
+              ],
+              "textValue": "PORTUGUESE"
+            },
+            {
+              "displayName": "Punjabi",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Punjabi"
+                }
+              ],
+              "textValue": "PUNJABI"
+            },
+            {
+              "displayName": "Russian",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Russe"
+                }
+              ],
+              "textValue": "RUSSIAN"
+            },
+            {
+              "displayName": "Spanish",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Espagnol"
+                }
+              ],
+              "textValue": "SPANISH"
+            },
+            {
+              "displayName": "Swahili",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Swahili"
+                }
+              ],
+              "textValue": "SWAHILI"
+            },
+            {
+              "displayName": "Tagalog",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Tagalog"
+                }
+              ],
+              "textValue": "TAGALOG"
+            },
+            {
+              "displayName": "Telugu",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Télougou"
+                }
+              ],
+              "textValue": "TELUGU"
+            },
+            {
+              "displayName": "Tibetan",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Tibétain"
+                }
+              ],
+              "textValue": "TIBETAN"
+            },
+            {
+              "displayName": "Ukrainian",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Ukrainien"
+                }
+              ],
+              "textValue": "UKRAINIAN"
+            },
+            {
+              "displayName": "Urdu",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Ourdou"
+                }
+              ],
+              "textValue": "URDU"
+            },
+            {
+              "displayName": "Vietnamese",
+              "displayNameTranslation": [
+                {
+                  "localeCode": "fr",
+                  "value": "Vietnamien"
+                }
+              ],
+              "textValue": "VIETNAMESE"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

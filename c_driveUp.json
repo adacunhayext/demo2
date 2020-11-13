@@ -1,0 +1,11 @@
+{
+  "$id": "c_driveUp",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Drive Up",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

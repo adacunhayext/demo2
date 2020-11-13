@@ -1,0 +1,11 @@
+{
+  "$id": "c_nightDepository",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Night Depository",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

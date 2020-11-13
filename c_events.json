@@ -1,0 +1,14 @@
+{
+  "$id": "c_events",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "These feed into the \"Local offers, events, and news\" section of the US Location page.",
+  "displayName": "Events",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_eventsCft"
+    }
+  },
+  "typeId": "yext/list"
+}

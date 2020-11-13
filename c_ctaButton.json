@@ -1,0 +1,33 @@
+{
+  "$id": "c_ctaButton",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "CTA Button",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "buttonText",
+          "displayName": "Button Text",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "buttonUrl",
+          "displayName": "Button URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

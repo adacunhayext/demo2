@@ -1,0 +1,11 @@
+{
+  "$id": "c_driveUpTubesCount",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Drive Up Tubes Count",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "yext/decimal"
+}

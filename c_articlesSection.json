@@ -1,0 +1,23 @@
+{
+  "$id": "c_articlesSection",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Articles Section",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "listType": {
+      "typeId": "yext/image",
+      "type": {
+        "imageType": {
+          "minSize": {
+            "height": 0,
+            "width": 0
+          },
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

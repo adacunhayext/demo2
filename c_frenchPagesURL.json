@@ -1,0 +1,14 @@
+{
+  "$id": "c_frenchPagesURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Pages URL for French AMSB Pages",
+  "displayName": "French Pages URL",
+  "group": "GROUP1",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,42 @@
+{
+  "$id": "c_locationTypeName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Location Type Name",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "ATM",
+          "textValue": "ATM"
+        },
+        {
+          "displayName": "Branch",
+          "textValue": "BRANCH"
+        },
+        {
+          "displayName": "ATM + Branch",
+          "textValue": "ATM_+_BRANCH"
+        },
+        {
+          "displayName": "(Canada Only) Investor Centre + ATM ",
+          "textValue": "(CANADA_ONLY)_INVESTOR_CENTRE_+_ATM"
+        },
+        {
+          "displayName": "(Canada Only) Investor Centre + Branch",
+          "textValue": "(CANADA_ONLY)_INVESTOR_CENTRE_+_BRANCH"
+        },
+        {
+          "displayName": "(Canada Only) Investor Centre + ATM + Branch",
+          "textValue": "(CANADA_ONLY)_INVESTOR_CENTRE_+_ATM_+_BRANCH"
+        },
+        {
+          "displayName": "(Canada Only) Private Branch",
+          "textValue": "(CANADA_ONLY)_PRIVATE_BRANCH"
+        }
+      ]
+    }
+  },
+  "typeId": "yext/option"
+}

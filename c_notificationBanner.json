@@ -1,0 +1,13 @@
+{
+  "$id": "c_notificationBanner",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Notification Banner",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "yext/string"
+}

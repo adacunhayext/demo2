@@ -1,0 +1,11 @@
+{
+  "$id": "c_aTMOpen24_7",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "ATM Open 24_7",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "c_currencyAvailable",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Currency Available",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "maxLength": 500,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "CAD",
+              "textValue": "CAD"
+            },
+            {
+              "displayName": "EUR",
+              "textValue": "EUR"
+            },
+            {
+              "displayName": "GBP",
+              "textValue": "GBP"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

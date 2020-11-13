@@ -1,0 +1,266 @@
+{
+  "$id": "ce_aMSB",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "Entity Type for TD Bank\u0027s Account Managers Small Business.",
+  "displayName": "AMSB",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/address",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "yext/cityCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/closed",
+      "required": false
+    },
+    {
+      "id": "c_aCIF2",
+      "required": false
+    },
+    {
+      "id": "c_aMSBLanguages",
+      "required": false
+    },
+    {
+      "id": "c_aMSBOffice",
+      "required": false
+    },
+    {
+      "id": "c_aMSBServices",
+      "required": false
+    },
+    {
+      "id": "c_appointmentTag",
+      "required": false
+    },
+    {
+      "id": "c_articlesSection",
+      "required": false
+    },
+    {
+      "id": "c_articlesSectionTitle",
+      "required": false
+    },
+    {
+      "id": "c_aTMIDNumber",
+      "required": false
+    },
+    {
+      "id": "c_aTMLocation",
+      "required": false
+    },
+    {
+      "id": "c_bankerLanguages",
+      "required": false
+    },
+    {
+      "id": "c_certs",
+      "required": false
+    },
+    {
+      "id": "c_certsLabel",
+      "required": false
+    },
+    {
+      "id": "c_cTAButton",
+      "required": false
+    },
+    {
+      "id": "c_exemptFromETL",
+      "required": false
+    },
+    {
+      "id": "c_frenchPagesURL",
+      "required": false
+    },
+    {
+      "id": "c_isRemote",
+      "required": false
+    },
+    {
+      "id": "c_languagesLabel",
+      "required": false
+    },
+    {
+      "id": "c_locationPageMetaDescription",
+      "required": false
+    },
+    {
+      "id": "c_locationPageMetaTitle",
+      "required": false
+    },
+    {
+      "id": "c_mailStop",
+      "required": false
+    },
+    {
+      "id": "c_notificationBanner",
+      "required": false
+    },
+    {
+      "id": "c_openMonth",
+      "required": false
+    },
+    {
+      "id": "c_otherStoreID",
+      "required": false
+    },
+    {
+      "id": "c_pagesURL",
+      "required": false
+    },
+    {
+      "id": "c_paragraph1",
+      "required": false
+    },
+    {
+      "id": "c_paragraph2",
+      "required": false
+    },
+    {
+      "id": "c_phoneAdditionalText",
+      "required": false
+    },
+    {
+      "id": "c_phoneNumberExtension",
+      "required": false
+    },
+    {
+      "id": "c_postalCodesManaged",
+      "required": false
+    },
+    {
+      "id": "c_profilePhoto",
+      "required": false
+    },
+    {
+      "id": "c_profilePhotoFormat",
+      "required": false
+    },
+    {
+      "id": "c_rCCode",
+      "required": false
+    },
+    {
+      "id": "c_sectionTitle",
+      "required": false
+    },
+    {
+      "id": "c_segmentAffliation",
+      "required": false
+    },
+    {
+      "id": "c_segmentLabel",
+      "required": false
+    },
+    {
+      "id": "c_storeManagerEmail",
+      "required": false
+    },
+    {
+      "id": "c_tDStoreID",
+      "required": false
+    },
+    {
+      "id": "c_title",
+      "required": false
+    },
+    {
+      "id": "c_title1",
+      "required": false
+    },
+    {
+      "id": "c_title2",
+      "required": false
+    },
+    {
+      "id": "c_toolsSection",
+      "required": false
+    },
+    {
+      "id": "c_toolsSectionTitle",
+      "required": false
+    },
+    {
+      "id": "yext/displayCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/dropoffCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/emails",
+      "required": false
+    },
+    {
+      "id": "yext/firstName",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/geocodedCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/lastName",
+      "required": false
+    },
+    {
+      "id": "yext/mainPhone",
+      "required": false
+    },
+    {
+      "id": "yext/pickupCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/routableCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    },
+    {
+      "id": "yext/walkableCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextDisplayCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextDropoffCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextPickupCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextRoutableCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextWalkableCoordinate",
+      "required": false
+    }
+  ],
+  "pluralDisplayName": "AMSBs"
+}

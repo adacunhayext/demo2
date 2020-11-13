@@ -1,0 +1,14 @@
+{
+  "$id": "c_lastName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "LastName",
+  "group": "GROUP1",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

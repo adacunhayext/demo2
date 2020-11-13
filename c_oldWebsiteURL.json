@@ -1,0 +1,15 @@
+{
+  "$id": "c_oldWebsiteURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Old URL structure prior to 6/19 update for TDCT locator",
+  "displayName": "Old Website URL",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 255
+    }
+  },
+  "typeId": "yext/string"
+}

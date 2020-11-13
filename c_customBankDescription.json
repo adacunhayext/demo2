@@ -1,0 +1,14 @@
+{
+  "$id": "c_customBankDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Custom Bank Description",
+  "group": "GROUP3",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 4000
+    }
+  },
+  "typeId": "yext/string"
+}

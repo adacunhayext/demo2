@@ -1,0 +1,13 @@
+{
+  "$id": "c_articlesSectionTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Articles Section Title",
+  "group": "GROUP3",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

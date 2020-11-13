@@ -1,0 +1,14 @@
+{
+  "$id": "c_locationPageMetaDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "The meta description is a ~160 character that describes a page\u0027s content. Search engines show the meta description in search results mostly when the searched for phrase is contained in the description. Optimizing the meta description is a very important aspect of on-page SEO",
+  "displayName": "Location Page Meta Description",
+  "group": "GROUP3",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "yext/string"
+}

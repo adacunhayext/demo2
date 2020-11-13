@@ -1,0 +1,20 @@
+{
+  "$id": "c_importantDisclosures",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Important Disclosures",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "BOLD",
+        "BULLETED_LIST",
+        "HYPERLINK",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "yext/richText"
+}

@@ -1,0 +1,70 @@
+{
+  "$id": "ce_promotion",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "Use this entity type to add special offers, sign-up bonuses, and other promotions to Yext.",
+  "displayName": "Promotion",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/landingPageUrl",
+      "required": false
+    },
+    {
+      "id": "yext/additionalPromotingLocations",
+      "required": false
+    },
+    {
+      "id": "yext/time",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_coverPhoto",
+      "required": false
+    },
+    {
+      "id": "c_cTAButton",
+      "required": false
+    },
+    {
+      "id": "c_importantDisclosures",
+      "required": false
+    },
+    {
+      "id": "c_offerDetails",
+      "required": false
+    },
+    {
+      "id": "c_profilePhoto",
+      "required": false
+    },
+    {
+      "id": "c_promotedHeaderText",
+      "required": false
+    },
+    {
+      "id": "c_relatedTDBankBranches",
+      "required": false
+    },
+    {
+      "id": "c_tDStoreID",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Promotions"
+}

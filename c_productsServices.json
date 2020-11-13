@@ -1,0 +1,49 @@
+{
+  "$id": "c_productsServices",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Products \u0026 Services",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "productIcon",
+          "displayName": "Product Icon",
+          "isRequired": true,
+          "typeId": "yext/image",
+          "type": {
+            "imageType": {
+              "minSize": {
+                "width": 0,
+                "height": 0
+              },
+              "unconstrainedAspectRatioAllowed": true,
+              "noAllowedAspectRatios": true
+            }
+          }
+        },
+        {
+          "name": "productName",
+          "displayName": "Product Name",
+          "isRequired": true,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "productDescription",
+          "displayName": "Product Description",
+          "isRequired": true,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "MULTILINE"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$id": "c_locationFeatures",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "These feed into the \"Location Features\" section of the US Location page.",
+  "displayName": "Location Features ",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Drive-Up Service",
+              "textValue": "DRIVE-UP_SERVICE"
+            },
+            {
+              "displayName": "Wifi Available",
+              "textValue": "WIFI_AVAILABLE"
+            },
+            {
+              "displayName": "Safe Deposit Boxes Available",
+              "textValue": "SAFE_DEPOSIT_BOXES_AVAILABLE"
+            },
+            {
+              "displayName": "Notary -- call for availability",
+              "textValue": "NOTARY_--_CALL_FOR_AVAILABILITY"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

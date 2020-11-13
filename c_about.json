@@ -1,0 +1,9 @@
+{
+  "$id": "c_about",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "These feed into the \"About\" section of the US Location page.",
+  "displayName": "About",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_aboutCft"
+}

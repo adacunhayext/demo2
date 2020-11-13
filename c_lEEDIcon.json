@@ -1,0 +1,20 @@
+{
+  "$id": "c_lEEDIcon",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "This feeds into the pages to show the LEED certification of the location.",
+  "displayName": "LEED Certification Logo",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "isSimpleImage": true,
+      "minSize": {
+        "width": 0,
+        "height": 0
+      },
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "yext/image"
+}

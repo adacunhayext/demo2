@@ -1,0 +1,8 @@
+{
+  "$id": "c_bookAppointmentCTA",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Book Appointment CTA",
+  "group": "GROUP2",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_ctaButton"
+}

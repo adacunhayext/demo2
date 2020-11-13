@@ -1,0 +1,20 @@
+{
+  "$id": "c_offerDetails",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Offer Details",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "BOLD",
+        "BULLETED_LIST",
+        "HYPERLINK",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "yext/richText"
+}
